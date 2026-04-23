@@ -10,7 +10,7 @@
 1. Coal from pyateorochka burns for 1 hour.
 
 ## Required products and prices
-![](figures/table-expense-5-person.png)
+![Products required to buy, amount and prices in table](figures/table-expense-5-person.png)
 
 ## Inventory check before leaving house
 ### Fire equipments
@@ -45,7 +45,7 @@
 1. Glasses
 
 ## Breakdown of cost 
-![](figures/per-person-expense-pie-chart.png)
+![Pie chart, expense of Sasklik per person](figures/per-person-expense-pie-chart.png)
 
 ## What to do:
 1. Cut tomato, extract juice.
@@ -64,11 +64,11 @@
 1. Fan until the coal is on fire.
 1. Spread it out.
 1. Put the meat.
-1. Do not fun until at the end.
+1. Do not fan until at the end.
 1. Do not eat immediately, let the meat cook itself in the box.
 
 ## Chicken on coal
-![](figures/2026-04-19_chicken-on-grill.jpg)
+![Chicken on coal getting grilled](figures/2026-04-19_chicken-on-grill.jpg)
 
 
 
