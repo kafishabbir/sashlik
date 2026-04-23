@@ -64,6 +64,7 @@
 1. Fan until the coal is on fire.
 1. Spread it out.
 1. Put the meat.
+1. Do not fun until at the end.
 1. Do not eat immediately, let the meat cook itself in the box.
 
 ## Chicken on coal
